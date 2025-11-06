@@ -1,0 +1,139 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "saucedemo-product-purchase-flow;sort-products-by-price-(low-to-high)",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Sort products by price (low to high)",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I am logged in to SauceDemo",
+            "match": {
+              "location": "file:\\D:\\BELAJAR\\saucedemo-automation\\steps\\saucedemo.steps.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 648609800
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "I sort products by \"Price (low to high)\"",
+            "match": {
+              "location": "file:\\D:\\BELAJAR\\saucedemo-automation\\steps\\saucedemo.steps.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 11664700
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "products should be sorted from lowest to highest price",
+            "match": {
+              "location": "file:\\D:\\BELAJAR\\saucedemo-automation\\steps\\saucedemo.steps.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 22685799
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "saucedemo-product-purchase-flow;complete-checkout-process",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "Complete checkout process",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 9,
+            "name": "I am logged in to SauceDemo",
+            "match": {
+              "location": "file:\\D:\\BELAJAR\\saucedemo-automation\\steps\\saucedemo.steps.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 590729600
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "I add a product to the cart",
+            "match": {
+              "location": "file:\\D:\\BELAJAR\\saucedemo-automation\\steps\\saucedemo.steps.js:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 76080099
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 11,
+            "name": "I proceed to checkout",
+            "match": {
+              "location": "file:\\D:\\BELAJAR\\saucedemo-automation\\steps\\saucedemo.steps.js:36"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 32599900
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 12,
+            "name": "I fill in my checkout information",
+            "match": {
+              "location": "file:\\D:\\BELAJAR\\saucedemo-automation\\steps\\saucedemo.steps.js:41"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 82837700
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 13,
+            "name": "I should see the success message \"Thank you for your order!\"",
+            "match": {
+              "location": "file:\\D:\\BELAJAR\\saucedemo-automation\\steps\\saucedemo.steps.js:46"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 59365700
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "saucedemo-product-purchase-flow",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "SauceDemo Product Purchase Flow",
+    "tags": [],
+    "uri": "features\\saucedemo.feature"
+  }
+]
