@@ -15,7 +15,7 @@
             "line": 4,
             "name": "I am logged in to SauceDemo",
             "match": {
-              "location": "file:\\D:\\BELAJAR\\saucedemo-automation\\steps\\saucedemo.steps.js:10"
+              "location": "C:\\Users\\Administrator\\saucedemo-automation\\steps\\saucedemo.steps.js:10"
             },
             "result": {
               "status": "passed",
@@ -28,7 +28,7 @@
             "line": 5,
             "name": "I sort products by \"Price (low to high)\"",
             "match": {
-              "location": "file:\\D:\\BELAJAR\\saucedemo-automation\\steps\\saucedemo.steps.js:19"
+              "location": "C:\\Users\\Administrator\\saucedemo-automation\\steps\\saucedemo.steps.js:19"
             },
             "result": {
               "status": "passed",
@@ -41,7 +41,7 @@
             "line": 6,
             "name": "products should be sorted from lowest to highest price",
             "match": {
-              "location": "file:\\D:\\BELAJAR\\saucedemo-automation\\steps\\saucedemo.steps.js:23"
+              "location": "C:\\Users\\Administrator\\saucedemo-automation\\steps\\saucedemo.steps.js:23"
             },
             "result": {
               "status": "passed",
@@ -65,7 +65,7 @@
             "line": 9,
             "name": "I am logged in to SauceDemo",
             "match": {
-              "location": "file:\\D:\\BELAJAR\\saucedemo-automation\\steps\\saucedemo.steps.js:10"
+              "location": "C:\\Users\\Administrator\\saucedemo-automation\\steps\\saucedemo.steps.js:10"
             },
             "result": {
               "status": "passed",
@@ -78,7 +78,7 @@
             "line": 10,
             "name": "I add a product to the cart",
             "match": {
-              "location": "file:\\D:\\BELAJAR\\saucedemo-automation\\steps\\saucedemo.steps.js:31"
+              "location": "C:\\Users\\Administrator\\saucedemo-automation\\steps\\saucedemo.steps.js:31"
             },
             "result": {
               "status": "passed",
@@ -91,7 +91,7 @@
             "line": 11,
             "name": "I proceed to checkout",
             "match": {
-              "location": "file:\\D:\\BELAJAR\\saucedemo-automation\\steps\\saucedemo.steps.js:36"
+              "location": "C:\\Users\\Administrator\\saucedemo-automation\\steps\\saucedemo.steps.js:36"
             },
             "result": {
               "status": "passed",
@@ -104,7 +104,7 @@
             "line": 12,
             "name": "I fill in my checkout information",
             "match": {
-              "location": "file:\\D:\\BELAJAR\\saucedemo-automation\\steps\\saucedemo.steps.js:41"
+              "location": "C:\\Users\\Administrator\\saucedemo-automation\\steps\\saucedemo.steps.js:41"
             },
             "result": {
               "status": "passed",
@@ -117,7 +117,7 @@
             "line": 13,
             "name": "I should see the success message \"Thank you for your order!\"",
             "match": {
-              "location": "file:\\D:\\BELAJAR\\saucedemo-automation\\steps\\saucedemo.steps.js:46"
+              "location": "C:\\Users\\Administrator\\saucedemo-automation\\steps\\saucedemo.steps.js:46"
             },
             "result": {
               "status": "passed",

@@ -48,7 +48,7 @@ When("I proceed to checkout", async function () {
 });
 
 When("I fill in my checkout information", async function () {
-  await checkoutPage.fillCheckoutInfo("Latif", "Arif", "12345");
+  await checkoutPage.fillCheckoutInfo("Resa", "NS", "12345");
   await checkoutPage.finishCheckout();
 });
 
